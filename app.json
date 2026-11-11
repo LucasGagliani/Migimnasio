@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Mi gimnasio",
+    "slug": "mi-gimnasio",
+    "scheme": "migimnasio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "bundleIdentifier": "app.migimnasio.mobile" },
+    "android": { "package": "app.migimnasio.mobile" },
+    "web": { "bundler": "metro", "output": "single", "name": "Mi gimnasio", "shortName": "Gimnasio", "themeColor": "#111412" }
+  }
+}
